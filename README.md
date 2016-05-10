@@ -1,2 +1,1 @@
-# hello-word
-hi
+menu{ color:#eeee;}
